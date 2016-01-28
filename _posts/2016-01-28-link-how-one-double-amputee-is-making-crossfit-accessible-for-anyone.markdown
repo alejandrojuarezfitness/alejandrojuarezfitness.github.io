@@ -1,6 +1,6 @@
 ---
 published: true
-title: [LINK] How One Double Amputee Is Making CrossFit Accessible for Anyone
+title: Link - How One Double Amputee Is Making CrossFit Accessible for Anyone
 layout: post
 ---
 # How One Double Amputee Is Making CrossFit Accessible for Anyone
